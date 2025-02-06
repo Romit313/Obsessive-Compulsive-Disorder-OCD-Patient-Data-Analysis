@@ -7,3 +7,9 @@ This project focuses on analyzing a dataset of 1,500 OCD patients to provide act
 - **SQL**: For data manipulation and feature engineering.
 - **Power BI**: For building interactive dashboards and data visualization.
 
+## Key Features
+- **Interactive Dashboards**: Visualize clinical and demographic data, enabling users to explore trends in patient characteristics and treatment outcomes.
+- **Data Filtering**: Allows users to filter data by different attributes like age, gender, severity of OCD symptoms, and treatment response.
+- **Trend Analysis**: Identify patterns in OCD treatment effectiveness and patient demographics over time.
+- **Patient Segmentation**: Classify patients based on clinical severity or demographic traits for more focused analysis.
+- **Customizable Reports**: Generate specific views for different stakeholder needs (e.g., clinicians, researchers, and data analysts).
